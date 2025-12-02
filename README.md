@@ -1,4 +1,4 @@
-# Transformer-Based Sentiment Analysis, Topic Modelling, and Insight Extraction from Company Reviews
+# Transformer-based Sentiment Analysis, Topic Modelling, and Insight Extraction from Company Reviews
 
 This repository contains the full MSc Data Science project focused on analysing Glassdoor UK company reviews using transformer-based models.  
 The work combines sentiment classification, topic modelling, and named entity analysis to derive actionable insights about organisational culture and employee perception.
