@@ -6,7 +6,7 @@ The work combines sentiment classification, topic modelling, and named entity an
 - **FinalReport.pdf** — Complete dissertation  
 - **Glassdoor.ipynb** — Main analysis notebook (end-to-end code)  
 - **Project Presentation.pptx** — Presentation slides  
-- **plots/** — Visualisations referenced in this README  
+- **plots** — Visualisations referenced in this README  
 
 ---
 
